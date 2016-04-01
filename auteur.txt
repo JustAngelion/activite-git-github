@@ -1,1 +1,1 @@
-Moi => moi@example.com
+Moi => example@example.com
